@@ -1,0 +1,15 @@
+WEB DE DOBLACORT - ARCHIVOS PARA PUBLICAR
+
+Esta carpeta es la página completa. Se sube TAL CUAL al hosting (index.html en la raíz).
+- index.html ............ la página
+- img/ .................. fotos del taller (ya optimizadas) y logo
+- fonts/ ................ tipografía Doblacort
+- favicon-32.png, apple-touch-icon.png, icon-192.png, icon-512.png ... iconos
+
+Formas fáciles de publicarla:
+1) Netlify Drop (gratis): entrar a app.netlify.com/drop y arrastrar esta carpeta.
+2) Hosting con cPanel / dominio .com.co: subir todo a la carpeta public_html.
+3) Si ya tienen WordPress: se puede poner en un subdominio o reemplazar la página de inicio.
+
+Para cambiar textos: abrir index.html con cualquier editor de texto y buscar la frase.
+WhatsApp configurado: 314 668 9863 (wa.me/573146689863).
